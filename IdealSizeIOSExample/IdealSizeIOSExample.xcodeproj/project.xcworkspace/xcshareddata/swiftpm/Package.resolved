@@ -1,0 +1,15 @@
+{
+  "originHash" : "de72d97df21f8ba7ed374d53e393654fc67063b33334ecdd697614e28ec92fe0",
+  "pins" : [
+    {
+      "identity" : "idealsizeios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mikhail-yevstratiev/IdealSizeIOS",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3881458dd50edfbf57d29246d2c1b938f0b2e497"
+      }
+    }
+  ],
+  "version" : 3
+}
