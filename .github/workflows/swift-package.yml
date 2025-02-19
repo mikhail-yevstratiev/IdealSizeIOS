@@ -13,8 +13,6 @@ jobs:
 
     - name: Set up Swift
       uses: swift-actions/setup-swift@v2
-      with:
-        swift-version: '5.5'
 
     - name: Build Swift package
       run: swift build --configuration release
